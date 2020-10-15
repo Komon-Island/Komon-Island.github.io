@@ -66,7 +66,7 @@ ul {
     padding: 0;
     overflow: visible;
     background-color: #333;
-    position: fixed;
+    position: relative;
 }
 
 li {
