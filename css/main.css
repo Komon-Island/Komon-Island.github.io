@@ -2,6 +2,14 @@ body, a:hover {
     cursor: url(http://cur.cursors-4u.net/games/gam-10/gam987.ani), url(http://cur.cursors-4u.net/games/gam-10/gam987.png), progress !important;
 }
 
+h1{
+    width:10%;
+    margin:auto;
+    
+}
+html{
+    height: 100%;
+}
 body{
     margin:0;
     padding:0;
@@ -12,7 +20,75 @@ body{
     height: 100%;
 
 }
+h2{
+    text-align: center;
+    margin:auto;
+    
+}
+h3{
+    text-align: center;
+    margin:auto;
+  
+} 
+h4{
+    text-align: center;
+    margin:auto;
+    background-color: #333;
+    width:70%;
+    margin: auto;
+    margin-bottom: -16px;
+    min-height: 100%;
+    
+}
+h5{
+    text-align: center;
+    margin:auto;
+    
+}
+h6{
+    text-align: center;
+    margin:auto;
+    
+}
 
+#bodyContent{
+    background-color: #333;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    background-color: #333;
+}
+
+li {
+    width: 100px;
+    display: inline-block;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+#Name{
+    text-align: center;
+    width: 862px;
+    height: 335px;
+}
 * {
 	position:relative;
 }
@@ -40,4 +116,14 @@ html {
 	position: fixed;
 	z-index: -2;
 	display: none;
+}
+#sites{
+    
+    text-align: center;
+    height: 800px;
+    width: 880px;
+    
+}
+ul{
+    text-align: center;
 }
