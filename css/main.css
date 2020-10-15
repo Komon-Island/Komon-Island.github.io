@@ -2,6 +2,32 @@ body, a:hover {
     cursor: url(http://cur.cursors-4u.net/games/gam-10/gam987.ani), url(http://cur.cursors-4u.net/games/gam-10/gam987.png), progress !important;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    background-color: #333;
+}
+
+li {
+    width: 100px;
+    display: inline-block;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
 * {
 	position:relative;
 }
