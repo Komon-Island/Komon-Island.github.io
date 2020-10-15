@@ -15,53 +15,6 @@ body{
 
 }
 
-#bodyContent{
-    background-color: cornsilk;
-    margin-left: 15%;
-    margin-right: 15%;
-    text-align: center;
-    height: 100%;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: visible;
-    background-color: #333;
-}
-
-li {
-    width: 100px;
-    display: inline-block;
-    
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
-* {
-	position:relative;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-html {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-	overflow-y: auto;
-}
-
 #bgtiles {
 	position: fixed;
 	background-image: url(../Background/bg-tiles.png);
