@@ -1,12 +1,6 @@
 body, a:hover {
     cursor: url(http://cur.cursors-4u.net/games/gam-10/gam987.ani), url(http://cur.cursors-4u.net/games/gam-10/gam987.png), progress !important;
 }
-
-h1{
-    width:10%;
-    margin:auto;
-    
-}
 html{
     height: 100%;
 }
@@ -20,36 +14,6 @@ body{
     height: 100%;
 
 }
-h2{
-    text-align: center;
-    margin:auto;
-    
-}
-h3{
-    text-align: center;
-    margin:auto;
-  
-} 
-h4{
-    text-align: center;
-    margin:auto;
-    background-color: cornsilk;
-    width:70%;
-    margin: auto;
-    margin-bottom: -16px;
-    min-height: 100%;
-    
-}
-h5{
-    text-align: center;
-    margin:auto;
-    
-}
-h6{
-    text-align: center;
-    margin:auto;
-    
-}
 
 #bodyContent{
     background-color: cornsilk;
@@ -57,27 +21,6 @@ h6{
     margin-right: 15%;
     text-align: center;
     height: 100%;
-}
-#AM{
-    
-    font-size: 14.8;
-}
-img{
-    align: center;
-    text-align: center;
-    max-width: 100%;
-    max-height: 100%;
-}
-#Nasa{
-    text-align: center;
-    height: 30px;
-    align: center;
-}
-
-#ITSME{
-    margin-left: 90 ;
-    margin-right: 100;
-    height: 300px;
 }
 
 ul {
@@ -104,11 +47,6 @@ li a {
 
 li a:hover {
     background-color: #111;
-}
-#Name{
-    text-align: center;
-    width: 862px;
-    height: 335px;
 }
 * {
 	position:relative;
@@ -137,13 +75,6 @@ html {
 	position: fixed;
 	z-index: -2;
 	display: none;
-}
-#sites{
-    
-    text-align: center;
-    height: 800px;
-    width: 880px;
-    
 }
 ul{
     text-align: center;
