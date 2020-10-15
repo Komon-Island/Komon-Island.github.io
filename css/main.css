@@ -71,8 +71,8 @@ ul {
 li {
     width: 100px;
     display: inline-block;
-    border-right: 1px solid #bbb;
-    border-left: 1px solid #bbb;
+    border-right: 1px solid #555;
+    border-left: 1px solid #555;
 }
 
 li a {
